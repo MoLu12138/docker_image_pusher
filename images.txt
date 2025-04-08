@@ -1,4 +1,4 @@
-nginx
-#支持私库
-xiaodid/hd-icons:latest
+
+--platform=linux/arm64 xiaodid/hd-icons:latest
+--platform=linux/arm64 emqx:latest
 
